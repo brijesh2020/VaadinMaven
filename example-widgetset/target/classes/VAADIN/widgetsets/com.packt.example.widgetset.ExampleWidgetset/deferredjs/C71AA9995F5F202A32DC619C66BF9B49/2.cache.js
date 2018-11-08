@@ -1,0 +1,1 @@
+$wnd.com_packt_example_widgetset_ExampleWidgetset.runAsyncCallback2('Ldb(1812,1,F1d);_.Xb=function Fnc(){O2b((!G2b&&(G2b=new W2b),G2b),this.a.d)};UXd(vh)(2);\n//# sourceURL=com.packt.example.widgetset.ExampleWidgetset-2.js\n')
